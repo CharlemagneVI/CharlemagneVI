@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chad
+- 👋 Hi, I’m Charles
 - 🕹 I love video games and programming!
 - 👨‍💻 Currently working on iOS projects with Swift!
 - 🕊 Find me on twitter @charlemagne_vi
